@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="F:BilletLibrary.Bil._nummerplade">
+            <summary>
+            Denne klasse karaktiserer Bil objekter, som arver properties og metoder fra den abstracte klasse "Køretøj"
+            </summary>
+        </member>
+        <member name="T:BilletLibrary.Køretøj">
+            <summary>
+            Denne abstract klasse bliver brugt som en skabelon til diverse køretøjs klasser.
+            Den vil kræve nummerplade, dato, pris, brobizz på hver klasse der arver fra denne.
+            </summary>
+        </member>
+        <member name="F:BilletLibrary.MC._nummerplade">
+            <summary>
+            Denne klasse karaktiserer MC objekter, som arver properties og metoder fra den abstracte klasse "Køretøj"
+            </summary>
+        </member>
+    </members>
+</doc>
